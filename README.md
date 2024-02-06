@@ -1,2 +1,2 @@
 # CRUD-app-using-Csharp-and-SQL-Server
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1RAyowayI89pDhGTYj_SUClRrumwzcYfl/view?usp=drive_link)https://drive.google.com/file/d/1RAyowayI89pDhGTYj_SUClRrumwzcYfl/view?usp=drive_link)
+![Screenshot (922)](https://github.com/nabinchakraborty/CRUD-app-using-Csharp-and-SQL-Server/assets/83083709/dc2a94a8-28a2-47d9-88d1-ff7d095971d5)
